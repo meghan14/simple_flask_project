@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Guess the secret number game</title>
+</head>
+<body>
+    <h1> Welcome {{ user.username }} !</h1>
+    {% for post in posts %}
+    <div>
+        <p> {{post.quote}}</p>
+    </div>
+    {% endfor %}
+</body>
+</html>
