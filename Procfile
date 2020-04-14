@@ -1,0 +1,1 @@
+web: simple_flask_project:app
