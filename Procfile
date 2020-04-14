@@ -1,1 +1,1 @@
-web: gunicorn simple_flask_project:app
+web: gunicorn interaction:app
