@@ -9,5 +9,5 @@ A very basic project to implement a fun guessing game using flask and deploy the
    ` $ flask run `
 4. This initializes the app on your local browser. Go ` http://127.0.0.1:5000/ `
 
-## Heroku App Link:
- - https://secret-number-game-using-flask.herokuapp.com/game 
+## Heroku App Link: 
+ https://secret-number-game-using-flask.herokuapp.com/game 
